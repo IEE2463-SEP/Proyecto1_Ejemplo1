@@ -17,3 +17,5 @@ La descripción de los archivos es:
 - [proyecto_1.zip](): Contiene todos los archivos necesarios para correr el proyecto.
 
 - [Link Video](https://www.youtube.com/watch?v=Yy3xFahU2d8&ab_channel=JoaquinLopez)
+
+Nota: use este [link](https://www.youtube.com/watch?v=4Ln6iRh_LTo), para aprender a manejar archivos sobre 100MB en github.
